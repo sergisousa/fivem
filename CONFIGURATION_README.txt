@@ -1,0 +1,1 @@
+Make sure to go to the folder -> /cmds/config/config.json and change the token to your discord application ( find at https://discordapp.com/developers/applications/ )
